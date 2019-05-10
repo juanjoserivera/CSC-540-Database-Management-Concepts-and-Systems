@@ -1,4 +1,5 @@
-# DBMS_Project
+# CSC-540-Database-Management-Concepts-and-Systems
+# Project
 how to clone the project from git
 
 
@@ -20,4 +21,3 @@ how to clone the project from git
 9: Finish
 
 10: Change the classpath from User/jrivera to whatever your classpath to the .jar file is
-# CSC-540-Database-Management-Concepts-and-Systems
